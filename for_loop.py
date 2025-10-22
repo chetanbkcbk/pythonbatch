@@ -13,8 +13,9 @@ for ele in t:
     print(ele)
 
 
-#for loop on set
+
+#for loop on dict
 print("-----------------")
-t={100,250,358,657}
+t={'a':100,'b':250,'c':358,'d':657}
 for ele in t:
     print(ele)
