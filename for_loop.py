@@ -11,3 +11,10 @@ print("-----------------")
 t=(11,22,33,44,55,66,77)
 for ele in t:
     print(ele)
+
+
+#for loop on set
+print("-----------------")
+t={100,250,358,657}
+for ele in t:
+    print(ele)
