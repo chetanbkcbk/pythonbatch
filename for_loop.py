@@ -18,4 +18,4 @@ for ele in t:
 print("-----------------")
 t={'a':100,'b':250,'c':358,'d':657}
 for ele in t:
-    print(ele)
+    pass
