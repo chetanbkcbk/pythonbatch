@@ -1,3 +1,19 @@
+marks=int(input("enter marks"))
+
+if marks>=85:
+    print("distiniction")
+elif marks>=65:
+    print("1st class")
+elif marks>=45:
+    print("2nd class")
+else:
+    print("failed teribly")
+
+
+
+
+
+
 '''temp=int(input('enter the temperature'))
 
 
@@ -13,6 +29,7 @@ else:
 print("last")
 '''
 
+'''
 marks=int(input('enter the marks scored with hardwork'))
 
 if marks<=100 and marks>=90:
@@ -26,6 +43,7 @@ elif marks<=69 and marks>=60:
 else:
     print("study hard party less")
 
+'''
 
 
 
